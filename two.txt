@@ -1,2 +1,1 @@
-This is file number two.
-Some changes.
+This is the file two of the footer page
